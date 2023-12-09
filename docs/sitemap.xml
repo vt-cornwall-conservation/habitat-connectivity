@@ -16,17 +16,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://vt-cornwall-conservation/habitat-connectivity/lc/</loc>
+         <loc>http://vt-cornwall-conservation/habitat-connectivity/data-sources/</loc>
          <lastmod>2023-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://vt-cornwall-conservation/habitat-connectivity/lidar/</loc>
+         <loc>http://vt-cornwall-conservation/habitat-connectivity/field-reconnaissance/</loc>
          <lastmod>2023-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://vt-cornwall-conservation/habitat-connectivity/vcd/</loc>
+         <loc>http://vt-cornwall-conservation/habitat-connectivity/previous-work/</loc>
+         <lastmod>2023-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://vt-cornwall-conservation/habitat-connectivity/terrain/</loc>
          <lastmod>2023-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>

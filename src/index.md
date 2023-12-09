@@ -7,11 +7,4 @@ Phase 1 consists of the following tasks:
 * prepare preliminary maps; 
 * prioritize sites for field visits.  
 
-The CCC identified the following data sources for compilation and analysis:  
-
-* ANR LIDAR habitat layers, 
-* 2020-2023 Cornwall Wildlife Camera Project documentation,
-* 2015 Cornwall Ecological Inventory report that includes wildlife comments from residents,
-* 2016 Cornwall Values Mapping Workshop maps.  
-
 This site provides technical documentation for the mapping work completed in Phase 1.  

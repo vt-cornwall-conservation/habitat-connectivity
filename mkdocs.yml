@@ -141,16 +141,12 @@ markdown_extensions:
 # Page tree
 nav:
   - Introduction: index.md  
-  - Project Layers: 
-    - Forest habitat blocks: core-blocks.md  
-    - Connecting habitat blocks: connecting-blocks.md  
-  - Data sources:  
-    - VCD: vcd.md
-    - Land cover: lc.md  
-    - Lidar: lidar.md  
-
-    
-  
+  - Previous work: previous-work.md  
+  - Terrain: terrain.md  
+  - Forest habitat blocks: core-blocks.md  
+  - Connecting habitat blocks: connecting-blocks.md  
+  - Field reconnaissance: field-reconnaissance.md
+  - Data Sources: data-sources.md
 
 
   
