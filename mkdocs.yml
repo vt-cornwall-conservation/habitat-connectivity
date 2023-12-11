@@ -142,10 +142,12 @@ markdown_extensions:
 nav:
   - Introduction: index.md  
   - Previous CCC Projects: ccc-projects.md   
-  - Shaded hypsometric tint: hypso.md  
+  - Hypsometric tint: hypso.md  
   - Surface waters and wetlands: waters-wetlands.md
-  - Shaded land cover: lc.md 
-  - VLT with shaded land cover: vlt-lc.md
+  - Land cover: lc.md 
+  - Potential natural communities from soils: ncs.md
+  - Vermont Conservation Design: vcd.md
+  - Land property (cadastre): parcels.md  
   - Notes: notes.md  
  
 #  - Contributing: contributing.md

@@ -1,6 +1,7 @@
 <><><>    
-_Notes for connectivity model     
-12/10/2023_   
+_Notes for connectivity model  
+purpose: personal, not for final delivery  
+status: ongoing_   
 <><><>   
 
 ## References  
