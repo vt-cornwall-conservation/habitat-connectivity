@@ -141,15 +141,13 @@ markdown_extensions:
 # Page tree
 nav:
   - Introduction: index.md  
-  - Previous work: previous-work.md  
-  - Terrain: terrain.md  
-  - Forest habitat blocks: core-blocks.md  
-  - Connecting habitat blocks: connecting-blocks.md  
-  - Field reconnaissance: field-reconnaissance.md
-  - Data Sources: data-sources.md
-
-
-  
+  - Previous CCC Projects: ccc-projects.md   
+  - Shaded hypsometric tint: hypso.md  
+  - Surface waters and wetlands: waters-wetlands.md
+  - Shaded land cover: lc.md 
+  - VLT with shaded land cover: vlt-lc.md
+  - Notes: notes.md  
+ 
 #  - Contributing: contributing.md
 #  - License: license.md
 
