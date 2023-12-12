@@ -2,47 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://vt-cornwall-conservation/habitat-connectivity/</loc>
-         <lastmod>2023-12-11</lastmod>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://vt-cornwall-conservation/habitat-connectivity/ccc-projects/</loc>
-         <lastmod>2023-12-11</lastmod>
+         <loc>http://vt-cornwall-conservation/habitat-connectivity/background/</loc>
+         <lastmod>2023-12-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://vt-cornwall-conservation/habitat-connectivity/get-started/</loc>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://vt-cornwall-conservation/habitat-connectivity/hypso/</loc>
-         <lastmod>2023-12-11</lastmod>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://vt-cornwall-conservation/habitat-connectivity/lc/</loc>
-         <lastmod>2023-12-11</lastmod>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://vt-cornwall-conservation/habitat-connectivity/ncs/</loc>
-         <lastmod>2023-12-11</lastmod>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://vt-cornwall-conservation/habitat-connectivity/notes/</loc>
-         <lastmod>2023-12-11</lastmod>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://vt-cornwall-conservation/habitat-connectivity/parcels/</loc>
-         <lastmod>2023-12-11</lastmod>
+         <lastmod>2023-12-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://vt-cornwall-conservation/habitat-connectivity/pro-lands/</loc>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://vt-cornwall-conservation/habitat-connectivity/vcd/</loc>
-         <lastmod>2023-12-11</lastmod>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://vt-cornwall-conservation/habitat-connectivity/waters-wetlands/</loc>
-         <lastmod>2023-12-11</lastmod>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

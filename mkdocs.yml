@@ -19,11 +19,11 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Cornwall Wildlife Habitat Connectivity    
+site_name:  Cornwall Wildlife Use & Habitat Atlas    
 site_url: http://vt-cornwall-conservation/habitat-connectivity
 site_author: Jeff Howarth
 site_description: >-
-  Technical documentation for habitat connectivity and wildlife use in Cornwall, Vermont.
+  Technical documentation for wildlife use and habitat atlas for Cornwall, Vermont.
 
 # Repository
 repo_name: /vt-cornwall-conservation/habitat-connectivity
@@ -140,13 +140,15 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Introduction: index.md  
-  - Previous CCC Projects: ccc-projects.md   
+  - Atlas: index.md  
+  - Get started: get-started.md  
+  - Background: background.md  
   - Hypsometric tint: hypso.md  
   - Surface waters and wetlands: waters-wetlands.md
   - Land cover: lc.md 
   - Potential natural communities from soils: ncs.md
   - Vermont Conservation Design: vcd.md
+  - Lands with some protections: pro-lands.md  
   - Land property (cadastre): parcels.md  
   - Notes: notes.md  
  
