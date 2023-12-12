@@ -10,7 +10,7 @@ I find this documentation easiest to read if I do the following:
   
 Having two windows side-by-side makes it easier to move between reading the documentation and exploring the maps.  
 
-## How to control the maps  
+## How to control the map layers  
 
 In the upper left corner of the map, use the **+ -** buttons to zoom in (+) and out (-). You can also use your mouse or touch pad to zoom. 
 

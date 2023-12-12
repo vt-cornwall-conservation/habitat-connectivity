@@ -12,18 +12,17 @@
 
 # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 # IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-# FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
 # AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
 # Project information
-site_name:  Cornwall Wildlife Use & Habitat Atlas    
+site_name:  An atlas of wildlife habitat for Cornwall, Vermont    
 site_url: http://vt-cornwall-conservation/habitat-connectivity
 site_author: Jeff Howarth
 site_description: >-
-  Technical documentation for wildlife use and habitat atlas for Cornwall, Vermont.
+  Technical documentation for an atlas of wildlife habitat for Cornwall, Vermont.
 
 # Repository
 repo_name: /vt-cornwall-conservation/habitat-connectivity
@@ -140,7 +139,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Atlas: index.md  
+  - An atlas: index.md  
   - Get started: get-started.md  
   - Background: background.md  
   - Hypsometric tint: hypso.md  

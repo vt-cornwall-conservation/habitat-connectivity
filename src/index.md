@@ -1,4 +1,4 @@
-# Wildlife Use and Habitat Atlas for Cornwall, Vermont  
+# An atlas of wildlife habitat for Cornwall, Vermont  
 
 TECHNICAL DOCUMENTATION  
 
