@@ -140,19 +140,25 @@ markdown_extensions:
 # Page tree
 nav:
   - Title page: index.md  
+  - Introduction: intro.md  
   - Get started: get-started.md  
-  - Skinny: skinny.md  
-  - Background: background.md  
-  - Hypsometric tint: hypso.md  
-  - Surface waters and wetlands: waters-wetlands.md 
-  - Potential natural communities from soils: ncs.md
-  - Land cover: lc.md 
-  - Vermont Conservation Design: vcd.md
-  - 2016 Habitat Blocks: hb-2016.md
-  - Lands with some protections: pro-lands.md  
-  - Cornwall parcels: parcels.md  
-  - UVA Forestland: uva.md
-  - Notes: notes.md  
+  - Habitat layers:
+    - Forest habitat blocks: habitat-blocks.md  
+    - Forest habitat connectors: habitat-connectors.md  
+  - Parcel layers:
+    - Land parcels: land-parcels.md  
+    - Parcels with protections: lands-with-protections.md  
+    - UVA forestland parcels: uva.md
+  - Reference layers:  
+    - Communities, habitats, species: chs.md  
+    - Surface waters and wetlands: waters-wetlands.md 
+    - Vermont Conservation Design: vcd.md  
+    - Potential natural communities from soils: ncs.md
+    - Land cover: lc.md 
+    - Hypsometric tint: hypso.md  
+    - NAIP imagery: naip.md
+
+
  
 #  - Contributing: contributing.md
 #  - License: license.md

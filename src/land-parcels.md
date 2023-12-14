@@ -1,6 +1,6 @@
 ## Overview  
 
-The **Cornwall Parcels** layer shows boundaries for all land parcels within Cornwall and all parcels along the town's boundary in the neighboring towns of Weybridge, Middlebury, Salisbury, Whiting, Shoreham, and Bridport.  
+The **Land Parcels** layer shows all land parcels that are either within Cornwall or overlap habitat blocks and connectors that extend from Cornwall into the neighboring towns of Weybridge, Middlebury, Salisbury, Whiting, Shoreham, and Bridport.  
 
 ## Instructions      
 
